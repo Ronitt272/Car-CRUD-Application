@@ -3,7 +3,7 @@
 A pure backend Car CRUD Application created with Nodejs, MongoDB and Expressjs. 
 
 Four different endpoints created to:
-1. create details of a car
-2. retrieve/read details of a car
-3. update details of a car
-4. delete details of a car
+1. Create details of a car
+2. Retrieve/Read details of a car
+3. Update details of a car
+4. Delete details of a car
